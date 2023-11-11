@@ -1,0 +1,8 @@
+this my gr file
+
+
+git add * git commit -m "this is some text"
+
+
+
+git push
